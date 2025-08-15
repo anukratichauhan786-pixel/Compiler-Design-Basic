@@ -189,6 +189,6 @@ Anukrati C++ Developer | Codtech Intern – Task 4 Specialized in writing modula
 -Internship community for support and feedback
 ### 🔗 Gallerry
 
-https://github.com/aradh-12/COMPILER-DESIGN-BASICS/issues/1
+https://github.com/anukratichauhan786-pixel/Compiler-Design-Basic/issues/1#issue-3324548013
 
 
